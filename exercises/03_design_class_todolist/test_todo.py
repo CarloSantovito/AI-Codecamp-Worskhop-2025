@@ -1,5 +1,4 @@
 import pytest
-from .todo import TodoList
 
 # 🧪 Your job:
 # - Write tests that cover all requirements in todo.py's docstring.
@@ -34,7 +33,5 @@ from .todo import TodoList
 #     todos = TodoList()
 #     with pytest.raises(ValueError):
 #         todos.add_item("   ")
-#
-# When you have your plan, delete the skip below and add real tests.
 
-pytest.skip("TODO: implement TodoList and write tests following the requirements")
+#  TODO: implement TodoList and write tests following the requirements

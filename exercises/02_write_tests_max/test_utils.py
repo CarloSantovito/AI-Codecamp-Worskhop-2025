@@ -1,5 +1,4 @@
 import pytest
-from .utils import find_max
 
 # 🧪 Your job:
 # 1) Replace the skip below with at least 3 real tests.
@@ -13,7 +12,7 @@ from .utils import find_max
 #    - type error: [1, "x"] -> TypeError
 # 4) Run: `pytest -q`
 
-pytest.skip("TODO: write at least 3 tests for find_max()")
+#  TODO: write at least 3 tests for find_max()
 
 def test_example_replace_me():
     # Example structure you can copy (delete this once you add real tests):

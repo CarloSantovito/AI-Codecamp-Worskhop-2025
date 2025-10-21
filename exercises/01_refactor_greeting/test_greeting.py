@@ -1,4 +1,4 @@
-from .greeting import format_greeting
+from greeting import format_greeting
 
 def test_single_plain():
     assert format_greeting("alice") == "Hello, Alice."
